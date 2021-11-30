@@ -1,0 +1,49 @@
+body{
+    background-color:grey;
+}
+
+#camera{
+    border-radius:15px;
+    border-width:5px;
+    border-style:dashed;
+    border-color:white;
+}
+
+.note{
+    font-size:18px;
+}
+
+.heading{
+    width:100%;
+    margin:0px;
+    border-radius:10px;
+    box-shadow:5px 5px 5px grey;
+    font-size:25px;
+    background-color:cadetblue;
+    color:white;
+}
+
+.footer{
+    background-color:cadetblue;
+    font-size:25px;
+    border-radius:15px;
+    color:white;
+    margin-top:5px;
+    padding-top:18px;
+    padding-bottom:18px;
+}
+
+#picture{
+    width:350px;
+    margin-top:75px;
+    margin-right:685px;
+    height:450px;
+    width:570px;
+}
+
+canvas{
+    background-color:skyblue;
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 10px skyblue;
+}
